@@ -91,3 +91,8 @@
 .box{
     height: 50px;
 }
+
+.fluid-container{
+    max-width: 900px;
+    margin: 0 auto;
+}
