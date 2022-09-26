@@ -1,22 +1,23 @@
-
+/* CUSTOM */
 :root{
     /* palette */
     --bgc-box:#006CFA;
     --bgc-nested-box:#00E165;
     --white:white;
-
 }
 
-.green{
-    padding: 0.6rem;
+/* COMMON */
+.fluid-container{
+    margin-bottom: 1rem;
 }
 
+/* BODY */
 .box{
     background-color:var(--bgc-box);
     border: 1px solid var(--white);
     color: var(--white);
-    height: 2.5rem;
-    line-height: 2.5rem;
+    height: 2.7rem;
+    line-height: 2.7rem;
     text-align: center;
     vertical-align: middle;
     font-size: small;
@@ -31,3 +32,6 @@
     height: 4rem;
 }
 
+.green{
+    padding: 0.6rem;
+}
