@@ -1,0 +1,93 @@
+
+:root{
+    /* palette */
+
+    --yllw:#E6F41B;
+    --drkyllw:#b9b06c;
+    --hair-prl:#43328d;
+    --hair-light:#2b5c6c;
+    --hair-blue:#39289a;
+    --bgc-rx:#93F1AD;
+    --bgc-sf:#c673e7;
+    --skin:#E8EEDC;
+    --hair-shadow:rgb(97, 167, 137);
+    --green-shadow:#95c2a2;
+    --hair-back:#2f298d;
+    --eye:rgb(81, 82, 79);
+    --dark-eye:rgb(44, 44, 42);
+    --shad-skin:rgb(192, 205, 148);
+    --nose:rgb(54, 148, 148);
+    --smile:rgb(206, 136, 136);
+}
+
+/* UTILITIES */
+
+.smile{
+    background-color: var(--smile);
+}
+
+.eye{
+    background-color: var(--eye);
+}
+
+.dark-eye{
+    background-color: var(--dark-eye);
+}
+
+.shad-skin{
+    background-color: var(--shad-skin);
+}
+
+.nose{
+    background-color: var(--nose);
+}
+
+.yllw{
+    background-color: var(--yllw);
+}
+
+.drkyllw{
+    background-color: var(--drkyllw);
+}
+
+.hair-prl{
+    background-color: var(--hair-prl);
+}
+
+.hair-light{
+    background-color: var(--hair-light);
+}
+
+.hair-blue{
+    background-color: var(--hair-blue);
+}
+
+.bgc-rx{
+    background-color: var(--bgc-rx);
+}
+
+.bgc-sf{
+    background-color: var(--bgc-sf);
+}
+
+.skin{
+    background-color: var(--skin);
+}
+
+.hair-shadow{
+    background-color: var(--hair-shadow);
+}
+
+.green-shadow{
+    background-color: var(--green-shadow);
+}
+
+.hair-back{
+    background-color: var(--hair-back);
+}
+
+
+/* COMMON */
+.box{
+    height: 50px;
+}
